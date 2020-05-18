@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## PRIVACY POLICY NOBLEHAT GAMES
+This privacy policy governs your use of all the games we have at NobleHat Games.
 
-You can use the [editor on GitHub](https://github.com/hlobaz/noblehatgames/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### User Provided Information 
+Our games do not require any form of registration. Therefore, we do not collect/obtain any form of user data during the download and playing of the games.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Does the Game collect precise real time location information of the device?
+This game does not collect precise information about the location of your mobile device.  
+### Children
+Our games go through thorough game testing, validation and approval process conducted by our team, friends and our kids. This insures that our games are suitable for kids. Our games do not collect any form of data therefore we are 100% sure we do not use the games to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at tlehloba@gmail.com.
 
-### Markdown
+### Changes
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact us
+If you have any questions regarding privacy while using the game, or have questions about our practices, please contact us via email at tlehloba@gmail.com.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hlobaz/noblehatgames/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
